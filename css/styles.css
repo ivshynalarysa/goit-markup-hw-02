@@ -12,9 +12,11 @@ body { font-family: Roboto, sans-serif; color:#434455;
 
 .navlink .nav1:hover, .navlink .nav2:hover, .navlink .nav3:hover {text-decoration: underline; color: #404BBF;}
  .nav1, .nav2 , .nav3 {line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42;}
- .address {font-style: normal;}
+ .address {font-style: normal;color:#434455 ;}
+ .address:hover, .address:focus {color: #404BBF;}
 
-
+.button {color: #ffffff;background: #4D5AE5;}
+.button:hover, .button:focus {color: #ffffff;background-color: #404BBF;}
 
 
 
