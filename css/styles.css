@@ -25,7 +25,7 @@ body { font-family: Roboto, sans-serif; color:#434455;
 
 
 
-
- .logofooter {color: #4d5ae5; background-color: #2E2F42;}
+footer {background-color: #2E2F42}
+ .logofooter {color: #4d5ae5;}
  .logofooter .logo-color {color: #f4f4fd;}
  .footer-p {line-height: 1.5; color: #f4f4fd; letter-spacing: 0.02em;}
