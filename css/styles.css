@@ -6,10 +6,11 @@ body { font-family: Roboto, sans-serif; color:#434455;
 
  .logoheader {font-family: "Ralewey", sans-serif; font-weight: 700; font-size: 18px;line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;
               color: #4d5ae5;}
- .logoheader .logo-color {color: #2E2F42;}            
+ .logoheader .logo-color {color: #2E2F42;}   
 
-
- .nav1, nav2 , nav3 {line-height: 1.5; letter-spacing: 0.02em; }
+.navlink {list-style: none;}
+.navlink .nav1:hover, .navlink .nav2:hover, .navlink .nav3:hover {text-decoration: underline;}
+ .nav1, .nav2 , .nav3 {line-height: 1.5; letter-spacing: 0.02em; }
  .address {font-style: normal;}
 
 
