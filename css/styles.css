@@ -1,6 +1,8 @@
 body { font-family: Roboto, sans-serif; color:#434455;
     font-weight: regular; font-size: 16px;
      font-line-height: 24px; background-color: #ffffff; }
+
+     
  .section-main-title { background-color: #2e2f42; }
  .main-title {font-size: 56px; line-height: 1.07;}
 
@@ -15,7 +17,7 @@ body { font-family: Roboto, sans-serif; color:#434455;
  .address {font-style: normal;color:#434455 ;}
  .address:hover, .address:focus {color: #404BBF;}
 
-.button {color: #ffffff;background: #4D5AE5;}
+.button {color: #ffffff;background: #4D5AE5; cursor:}
 .button:hover, .button:focus {color: #ffffff;background-color: #404BBF;}
 
 
