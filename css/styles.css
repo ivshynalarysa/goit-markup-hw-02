@@ -38,7 +38,7 @@ body { font-family: Roboto, sans-serif; color:#434455;
 
 .outportfolio-list {list-style: none;}
 .outportfolio-title {font-size: 36px; line-height: 1.11; text-align: center; letter-spacing: 0.02em;  text-transform: capitalize; color: #2e2f42; }
-.bankingapp-title, .marketing-title, .meditationapp-title, .taxiservis-title, .screenillustration-title, .onlinecourses-title {
+.portfolio-title {
     font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color: #2e2f42;}
 .bankingapp-p, .marketing-p, .meditationapp-p, .taxiservis-p, .screenillustration-p, .onlinecourses-p {
     line-height: 1.5; letter-spacing: 0.02em; }
