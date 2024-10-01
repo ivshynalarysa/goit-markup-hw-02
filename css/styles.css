@@ -9,8 +9,9 @@ body { font-family: Roboto, sans-serif; color:#434455;
  .logoheader .logo-color {color: #2E2F42;}   
 
 .navlink {list-style: none;}
-.navlink .nav1:hover, .navlink .nav2:hover, .navlink .nav3:hover {text-decoration: underline;}
- .nav1, .nav2 , .nav3 {line-height: 1.5; letter-spacing: 0.02em; }
+
+.navlink .nav1:hover, .navlink .nav2:hover, .navlink .nav3:hover {text-decoration: underline; color: #404BBF;}
+ .nav1, .nav2 , .nav3 {line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42;}
  .address {font-style: normal;}
 
 
@@ -19,7 +20,7 @@ body { font-family: Roboto, sans-serif; color:#434455;
 
 .outteam-section {background-color: #f4f4fd;}
 .outteam-title {font-size: 36px; line-height: 1.1; text-align: center;letter-spacing: 0.02em;text-transform: capitalize;}
-
+.outteam-list {list-style: none;}
 
 .productdesigner-title {font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color: #2e2f42;}
 
