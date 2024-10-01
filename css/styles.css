@@ -1,0 +1,31 @@
+body { font-family: Roboto, sans-serif; color:#434455;
+    font-weight: regular; font-size: 16px;
+     font-line-height: 24px; background-color: #ffffff; }
+ .section-main-title { background-color: #2e2f42; }
+ .main-title {font-size: 56px; line-height: 1.07;}
+
+ .logoheader {font-family: "Ralewey", sans-serif; font-weight: 700; font-size: 18px;line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;
+              color: #4d5ae5;}
+ .logoheader .logo-color {color: #2E2F42;}            
+
+
+ .nav1, nav2 , nav3 {line-height: 1.5; letter-spacing: 0.02em; }
+ .address {font-style: normal;}
+
+
+
+
+
+.outteam-section {background-color: #f4f4fd;}
+.outteam-title {font-size: 36px; line-height: 1.1; text-align: center;letter-spacing: 0.02em;text-transform: capitalize;}
+
+
+.productdesigner-title {font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color: #2e2f42;}
+
+
+
+
+
+ .logofooter {color: #4d5ae5;}
+ .logofooter .logo-color {color: #f4f4fd;}
+ .footer-p {line-height: 1.5; color: #f4f4fd; letter-spacing: 0.02em;}
